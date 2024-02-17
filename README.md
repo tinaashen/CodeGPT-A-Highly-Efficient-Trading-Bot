@@ -9,12 +9,12 @@ CodeGPT's Trading Bot is a sophisticated algorithm designed for high-frequency t
 ![C1FDE67D-40C7-4A26-AE20-F0B4372AC475_1_105_c](https://github.com/Kevin-Zhouu/CodeGPT-A-Highly-Efficient-Trading-Bot/assets/68810460/36494208-a622-46db-84a6-da48275d6f90)
 
 ## Contributor
-- Shiyuan(Kevin) Zhou
 - Ti Na Shen
+- Shiyuan(Kevin) Zhou
 - Shaun Cai
 ## High-Level Design
 
-The trading bot operates by continuously analysing market data, identifying profitable trading opportunities based on predefined strategies, and executing trades with precision. The system is divided into several key components:
+The trading bot operates by continuously analysing market data in real time, identifying profitable trading opportunities based on predefined strategies, and executing trades with precision. The system is divided into several key components:
 
 - **Market Data Listener:** Constantly listens for market updates and adjusts the bot's internal state to reflect the current market conditions.
 - **Trading Strategy Analyser:** Implements the core logic of the trading bot, analysing market data to identify profitable opportunities and deciding on the actions to take.
